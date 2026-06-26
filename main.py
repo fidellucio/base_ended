@@ -100,7 +100,7 @@ async def main():
             print("✅ [STEP 1] Página de login carregada.")  
   
             print("🔐 [STEP 2] 🔐 Fazendo login...")  
-            await page.locator('xpath=//*[@placeholder="Ops ID"]').fill('Ops115950')  
+            await page.locator('xpath=//*[@placeholder="Ops ID"]').fill('Ops444040')  
             await page.locator('xpath=//*[@placeholder="Senha"]').fill('@Shopee123')  
             await page.locator(  
                 'xpath=/html/body/div[1]/div/div[2]/div/div/div[1]/div[3]/form/div/div/button'  
